@@ -11,8 +11,8 @@ Repo del Curso de Topicos Computacional
 8. Control de Lectura 4
 9. PC Grupal 4
 
-# List of Movies
-1. Lalaland
+# List of Games
+1. Hoyoverso
 2. Arknights
 3. Reverse: 1999
-4. Casino Royal
+4. Football Manager
