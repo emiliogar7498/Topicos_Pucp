@@ -6,3 +6,7 @@ Repo del Curso de Topicos Computacional
 3. Control de Lectura 2
 4. PC Grupal 2
 5. Examen Parcial
+6. Control de Lectura 3
+7. PC Grupal 3
+8. Control de Lectura 4
+9. PC Grupal 4
